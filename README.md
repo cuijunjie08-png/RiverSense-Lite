@@ -1,17 +1,43 @@
-# riversense_lite
+# RiverSense Lite
 
-A new Flutter project.
+## Project Overview
+RiverSense Lite is a Flutter-based mobile application that makes urban water quality data easier for the public to understand.
 
-## Getting Started
+## Problem Statement
+Urban water quality data is often technical and difficult for non-expert users to interpret. This app translates public environmental monitoring data into simple visual, trend, and story-based forms.
 
-This project is a starting point for a Flutter application.
+## Core Features
+- GPS-based location detection
+- Nearby river monitoring point lookup
+- Real-time water quality API integration
+- Water quality status translation
+- Historical trend chart
+- Dynamic Story Mode
+- Firestore-based saved logs
 
-A few resources to get you started if this is your first Flutter project:
+## Technical Stack
+- Flutter
+- Dart
+- Geolocator
+- HTTP
+- fl_chart
+- Firebase Core
+- Cloud Firestore
+- UK Environment Agency Hydrology API
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Screenshots
+(put screenshots here)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo
+(put gif or video here)
+
+## Limitations
+- Current status is mainly based on pH
+- 24-hour trend data may be unavailable for some stations
+- Firestore loading may be slower on web
+
+## Future Improvements
+- Multi-indicator logic
+- Better nearest station matching
+- Notifications
+- Improved UI polish
