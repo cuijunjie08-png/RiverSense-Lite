@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "544672755260",
+    "project_id": "riversense-lite",
+    "storage_bucket": "riversense-lite.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544672755260:android:9a6dd4b531352ae890dd39",
+        "android_client_info": {
+          "package_name": "com.example.riversense_lite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfIZncmELrZrms4zhs1PN-RZW8EZ27gvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
