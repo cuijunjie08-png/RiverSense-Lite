@@ -197,15 +197,3 @@ The Logs page reads these saved records from Firestore in real time.
 flutter pub get
 flutter run
 
-## Limitations
--The current water-quality status logic is mainly based on pH, rather than a full multi-indicator environmental model.
--Some monitoring stations do not provide dense short-term historical readings, so the 24-hour trend view may occasionally contain no data.
--Firestore loading may feel slower on web because saved logs are retrieved from the cloud rather than local storage.
--Story Mode is currently rule-based, rather than expert-authored or model-generated environmental interpretation.
--Some station names returned by the public API are not highly user-friendly.
-
-## Future Improvements
-- Multi-indicator logic
-- Better nearest station matching
-- Notifications
-- Improved UI polish
