@@ -73,22 +73,22 @@ This makes the project a strong fit for the Mobile Systems and Interactions cour
 ## Screenshots
 
 ### Home Page
-![Home Page](assets/screenshots/home_page.png)
+![Home Page](assets/screenshots/home page.png)
 
-### Trends Page
-![Trends Page](assets/screenshots/trends_page.png)
+### Trends For 7 Days Page
+![Trends Page](assets/screenshots/trends for 7days.png)
 
-### Story Mode
-![Story Mode](assets/screenshots/story_page.png)
+### Trends For 30 Days Page
+![Trends Page](assets/screenshots/trends for 30 days.png)
 
 ### Logs Page
-![Logs Page](assets/screenshots/log_page.png)
+![Logs Page](assets/screenshots/logs.png)
 
 ---
 
 ## Demo
 
-![Demo](assets/demo/riversense_demo.gif)
+![Demo](assets/demo/Desktop 2026.04.23 - 20.22.41.08.mp4)
 
 ---
 
@@ -196,17 +196,3 @@ The Logs page reads these saved records from Firestore in real time.
 ```bash
 flutter pub get
 flutter run
-```
-
-## Limitations
-- Current status is mainly based on pH
-- 24-hour trend data may be unavailable for some stations
-- Firestore loading may be slower on web
-
-## Future Improvements
-- Multi-indicator logic
-- Better nearest station matching
-- Notifications
-- Improved UI polish
-
-
