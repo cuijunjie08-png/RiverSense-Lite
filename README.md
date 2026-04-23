@@ -73,13 +73,13 @@ This makes the project a strong fit for the Mobile Systems and Interactions cour
 ## Screenshots
 
 ### Home Page
-![Home Page](assets/screenshots/home page.png)
+![Home Page](assets/screenshots/home_page.png)
 
 ### Trends For 7 Days Page
-![Trends Page](assets/screenshots/trends for 7days.png)
+![Trends Page](assets/screenshots/trends_for_7days.png)
 
 ### Trends For 30 Days Page
-![Trends Page](assets/screenshots/trends for 30 days.png)
+![Trends Page](assets/screenshots/trends_for_30days.png)
 
 ### Logs Page
 ![Logs Page](assets/screenshots/logs.png)
@@ -88,7 +88,7 @@ This makes the project a strong fit for the Mobile Systems and Interactions cour
 
 ## Demo
 
-![Demo](assets/demo/Desktop 2026.04.23 - 20.22.41.08.mp4)
+![Demo](assets/demo/demo.mp4)
 
 ---
 
